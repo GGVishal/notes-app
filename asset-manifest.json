@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/notes-app/static/css/main.4b5cd0bf.css",
+    "main.js": "/notes-app/static/js/main.b4ac4c4f.js",
+    "static/media/plusicon.png": "/notes-app/static/media/plusicon.f5d4d283910a71769470.png",
+    "index.html": "/notes-app/index.html",
+    "main.4b5cd0bf.css.map": "/notes-app/static/css/main.4b5cd0bf.css.map",
+    "main.b4ac4c4f.js.map": "/notes-app/static/js/main.b4ac4c4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b5cd0bf.css",
+    "static/js/main.b4ac4c4f.js"
+  ]
+}
